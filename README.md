@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Developers 👋, <br>Am Suvro known as elitsuv. I am an Ai<br>Developer (at ABC stage). 
+Hey Developers 👋, <br>Am Suvro known as elitsuv. I am a enthusiastic Ai<br>Developer (at ABC stage). 
 
 
 ## 🌐 Socials:
