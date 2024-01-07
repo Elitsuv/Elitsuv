@@ -1,5 +1,5 @@
 # Suv:
-🧠 Hey there, Am Suvro. <br>An enthusiastic developer.Deeply Focused on AI/ML
+🧠 Hey there, Am Suvro. <br>An enthusiastic developer.Deeply Focused in AI/ML
 
 
 ## 🌐 Socials:
