@@ -2,7 +2,7 @@
 
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&duration=4200&pause=2200&color=9CA3AF&center=false&vCenter=false&width=460&lines=Training+one+model+well%2C+not+ten+badly;Reading+slowly%2C+on+purpose;Currently%3A+JEE+prep+by+day%2C+ML+by+night" 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&duration=4200&pause=2200&color=9CA3AF&center=false&vCenter=false&width=460&lines=Training+one+model+well%2C+not+ten+badly;Reading+slowly%2C+on+purpose;" 
   alt="Typing"
 />
 
